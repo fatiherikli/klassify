@@ -75,3 +75,10 @@ Command line options:
     2019 The MIT License (MIT) Copyright (c)  Fatih Erikli
     2020 The MIT License (MIT) Copyright (c)  Fatih Erikli
     2021 CC0 1.0 Universal     Copyright (c)  Fatih Erikli
+    
+    
+### To-do
+
+   - Will add a classification backend system as the following
+       - Keep the current one as the Bayesian one
+       - Add another backend for Support Vector Machines
