@@ -65,3 +65,13 @@ Command line options:
 *Note:* This requires installation of both Docker and docker-compose
 
     docker-compose up
+    
+    
+### License History
+
+    2016 The MIT License (MIT) Copyright (c)  Fatih Erikli
+    2017 The MIT License (MIT) Copyright (c)  Fatih Erikli
+    2018 The MIT License (MIT) Copyright (c)  Fatih Erikli
+    2019 The MIT License (MIT) Copyright (c)  Fatih Erikli
+    2020 The MIT License (MIT) Copyright (c)  Fatih Erikli
+    2021 CC0 1.0 Universal     Copyright (c)  Fatih Erikli
