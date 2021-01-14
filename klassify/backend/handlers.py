@@ -1,5 +1,5 @@
 import collections
-from itertools import imap
+# from itertools import imap
 import json
 import math
 from tornado.gen import Task, coroutine
@@ -107,7 +107,7 @@ class ClassifierHandler(BaseHandler):
                 self.build_key('label', label)
             )
 
-            total = sum(imap(int, counts))
+            total = sum(map(int, counts))
 
             if not total:
                 continue
