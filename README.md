@@ -17,7 +17,7 @@ There are many use cases of document classifiers in real world:
 
 ### Demo
 
-![klassify](http://i.imgur.com/iG4atNg.gif)
+![klassify](https://i.imgur.com/iG4atNg.gif)
 
 ### Installing
 
@@ -32,7 +32,7 @@ You'll also need `redis` installed, check if you have it installed by running th
 
     redis-server
 
-If you get a `command not found`, follow these [instructions](http://redis.io/topics/quickstart)
+If you get a `command not found`, follow these [instructions](https://redis.io/topics/quickstart)
 
 ### Installing on Virtualenv
 
@@ -69,14 +69,9 @@ Command line options:
     
 ### License History
 
-    2016 The MIT License (MIT) Copyright (c)  Fatih Erikli
-    2017 The MIT License (MIT) Copyright (c)  Fatih Erikli
-    2018 The MIT License (MIT) Copyright (c)  Fatih Erikli
-    2019 The MIT License (MIT) Copyright (c)  Fatih Erikli
-    2020 The MIT License (MIT) Copyright (c)  Fatih Erikli
-    2021 CC0 1.0 Universal     Copyright (c)  Fatih Erikli
-    
-    
+    2016-2021 The MIT License (MIT) Copyright (No-copy-left)  Fatih Erikli
+    2021-     CC0 1.0 Universal     Copyright (No-copy-left)  Fatih Erikli
+
 ### To-do
 
    - Will add a classification backend system as the following
